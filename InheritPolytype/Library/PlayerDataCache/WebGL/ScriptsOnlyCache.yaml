@@ -1,9 +1,12 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - ReadmeEditor
     Assembly-CSharp.dll:
     - PeopleFarAttack
     - PeopleRun
     - PeopleTrack
+    - Readme
     Unity.RenderPipelines.Core.Runtime.dll:
     - UnityEngine.Rendering.UI.DebugUIHandlerBitField
     - UnityEngine.Rendering.UI.DebugUIHandlerButton
@@ -1060,4 +1063,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u904A\u6232\u5834\u666F/\u904A\u6232\u5834\u666F.unity"
-  playerPath: /Users/susan/Documents/2020class/Csharp/Homeworks_C#/Unity_Susan_Practice_InheritPolytype/InheritPolytype/inherit
+  playerPath: /Users/susan/Documents/2020class/Csharp/Homeworks_C#/Unity_Susan_Practice_InheritPolytype/InheritPolytype/web
